@@ -3,6 +3,11 @@
     background-color: #6a6e8c;
     color: #efd97d;
 }
+
 main {
     background-color: #a3acab;
+}
+
+body {
+    background-image: url("record.png");
 }
